@@ -1,0 +1,2 @@
+# Dictionary
+Kamus blm diket
